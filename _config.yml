@@ -1,0 +1,16 @@
+title: GhostLineSecurity
+email: contact@ghostlinesecurity.com
+description: >- # this means to ignore newlines until "baseurl:"
+    GhostLineSecurity blog. [Not?]Another technical hacking blog. Exploiting, Hardware, Games, Low level thingies, Weird RD stuff, 
+    and definitely lots of fun.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://ghostlinesecurity.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: GhostLineSec
+github_username:  GhostLineSecurity
+
+
+# Build settings
+remote_theme: GhostLineSecurity/jekyll-theme-glsec
+
+plugins:
+  - jekyll-feed
