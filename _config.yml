@@ -15,3 +15,5 @@ remote_theme: GhostLineSecurity/jekyll-theme-glsec
 
 plugins:
   - jekyll-feed
+
+show_excerpts: true
