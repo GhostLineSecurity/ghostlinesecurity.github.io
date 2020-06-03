@@ -30,7 +30,7 @@ GhostLineSecurity is a part of the new department we're working to create at Áu
 
 - Send us an email! [![eMail](/assets/img/mail.png)](mailto:contact@ghostlinesecurity.com)
 
-- Tweet us one! [![@GhostLineSec](/assets/img/twitter.png)](https://twitter.com/GhostLineSec)
+- Tweet us one! [![@GhostLineS3c](/assets/img/twitter.png)](https://twitter.com/GhostLineS3c)
 
 - Open an issue on every silly mistake we made [![@GhostLineSecurity](/assets/img/github.png)](https://github.com/GhostLineSecurity)
 
