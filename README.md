@@ -24,5 +24,5 @@ GhostLineSecurity is a part of the new department we're working to create at Áu
 
 - Blog related issues/critics/swearwords/requests
 	- [contact@ghostlinesecurity.com](mailto:contact@ghostlinesecurity.com)
-	- Tweet us one [@GhostLineSecurity](https://twitter.com/GhostLineSecurity)
+	- Tweet us one [@GhostLineS3c](https://twitter.com/GhostLineS3c)
 	- Open an issue on every silly mistake we made [@GhostLineSecurity](https://github.com/GhostLineSecurity)

@@ -192,7 +192,7 @@ The `fd` pointer for this chunk, points to `0x555555559780`, which is indeed the
 
 I hope this all makes sense. Play with the examples provided until it sticks :)
 
-Also, feel free to contact us via our Twitter handle [@GhostLineSec](https://twitter.com/GhostLineSec).
+Also, feel free to contact us via our Twitter handle [@GhostLineS3c](https://twitter.com/GhostLineS3c).
 
 Or open an issue if there's some mistake on our [@GhostLineSecurity](https://github.com/GhostLineSecurity).
 
