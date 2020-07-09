@@ -56,7 +56,7 @@ We found less registers so we are near our desired register. After another drunk
 
 Now we need to manipulate these 2 registers to find the correct one adding them to our Cheat Table Panel and modify them by double-clicking in the value register. After changing both registers for a random number like 420, just because, and going to the UI game we know which one is the correct. So we found the memory address that stores the in-game Gold value of the current state! 
 
-![yes...more]( /assets/games/goldCheatEngine4.png)
+![yes...more]( /assets/games/GoldClunkyHero4.png)
 
 Now let's try it with the Health of our weird but brave hero. After fighting a Big Head dude and two drunken bees (O.o) our Health Points are 40. We will scan the memory searching for '40' and then get hurt to low the HP and search again. With the help of an angry drunken bee we have our HP down to 30 and by using "Decrement value by..." we search for '10' and we find and unique register. Adding it to the Cheat Table Panel and modifying it with 1337 HP points will change the HP value of the game. 
 
