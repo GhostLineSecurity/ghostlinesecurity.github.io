@@ -186,7 +186,7 @@ Finally, let it continue to the end so we'll see how it prints the victim buffer
 
 TCache was a great performance improvement introduced into GLIBC implementation, however, it comes at a cost.
 
-Some of the mitigations put in place are rendered useless when it comes to using TCache. So, everytime you're exploiting some random heap-realted vulnerability, keep on mind that the implementation
+Some of the mitigations put in place are rendered useless when it comes to using TCache. So, everytime you're exploiting some random heap-related vulnerability, keep on mind that the implementation differs from one version to another.
 
 
 ###### Hint hint!
